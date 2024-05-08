@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="skeleton.RunCukesTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-05-07T22:50:44" hostname="LAPTOP-AKEIRBSA" time="0.086">
+  <properties/>
+  <testcase name="Eating cucumbers and waiting to see if belly growls #1" classname="skeleton.RunCukesTest" time="0.061"/>
+  <testcase name="Eating cucumbers and waiting to see if belly growls #2" classname="skeleton.RunCukesTest" time="0.005"/>
+  <testcase name="Eating cucumbers and waiting to see if belly growls #3" classname="skeleton.RunCukesTest" time="0.003"/>
+  <testcase name="Eating cucumbers and waiting to see if belly growls #4" classname="skeleton.RunCukesTest" time="0.002"/>
+  <testcase name="Belly should not growl with insufficient cucumbers and time" classname="skeleton.RunCukesTest" time="0.006"/>
+  <testcase name="Belly should growl after eating a lot and waiting enough" classname="skeleton.RunCukesTest" time="0.004"/>
+  <system-out><![CDATA[I'm eating 5 cukes!
+I ate 5 cucumbers.
+I'm eating 20 cukes!
+I ate 20 cucumbers.
+I'm eating 10 cukes!
+I ate 10 cucumbers.
+I'm eating 15 cukes!
+I ate 15 cucumbers.
+I'm eating 3 cukes!
+I ate 3 cucumbers.
+I'm eating 12 cukes!
+I ate 12 cucumbers.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
